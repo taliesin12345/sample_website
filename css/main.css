@@ -4,3 +4,16 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+.header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.image-link {
+  text-decoration:none;
+}
+.td-padding {
+  padding: 10px;
+}
+#founders {
+  
+}
