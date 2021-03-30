@@ -11,9 +11,9 @@
 .image-link {
   text-decoration:none;
 }
-.td-padding {
-  padding: 10px;
+td {
+  padding: 1px 10px 1px 0;
 }
 #founders {
-  
+
 }
